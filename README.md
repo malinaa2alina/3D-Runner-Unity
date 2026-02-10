@@ -3,7 +3,9 @@
 Простая 3D игра в жанре раннера, созданная на Unity.
 
 ## Gameplay
-
+![Gameplay](screenshots/gameplay_1.png)
+![Gameplay](screenshots/gameplay_2.png)
+![Gameplay](screenshots/gameplay_3.png)
 
 ## Features
 - Управление персонажем
